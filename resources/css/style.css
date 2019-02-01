@@ -1,0 +1,40 @@
+body{
+  background: black;
+  text-align: center;
+}
+h1,h2{
+  color: white;
+}
+.head{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+}
+.dwnld {
+  color: Aquamarine;
+  font-size: 16px;
+  font-family: Verdana
+
+}
+.travel_guide{
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+h4 {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+  font-weight: 300;
+}
+.coming {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+footer {
+  color: gray;
+  text-align: right;
+  font-family: Verdana;
+}
